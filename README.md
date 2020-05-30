@@ -1,11 +1,11 @@
 # stanbicRPA
 Automated Google form filling with python and selenium
 
-# Requirements
-Python
-Selenium
-Chromeweb driver
-Chrome browser
+## Requirements
+#Python
+#Selenium
+#Chromeweb driver
+#Chrome browser
 
 #DEMO
 This is link to the demo
